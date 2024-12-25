@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028148740851",
+    "project_id": "astroapp-87e11",
+    "storage_bucket": "astroapp-87e11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028148740851:android:740f61f106f9abe3086d86",
+        "android_client_info": {
+          "package_name": "com.AstroApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9u-8TDt87xkyTkUv4NufEBhEmYDKEWe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
